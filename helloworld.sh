@@ -1,7 +1,7 @@
 #! /bin/bash
 
 func(){
-echo "hello world"
+echo "Hello world, my name is Sam :D"
 }
 
 func
